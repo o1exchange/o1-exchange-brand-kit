@@ -125,5 +125,12 @@ o1.exchange prefers **active voice**. Sometimes [passive voice can be rhetorical
 ## References
 
 This document has been remixed in part from:
-- The [Base Brand Kit](https://github.com/base/brand-kit)
+- The [Base Brand Kit](https://github.com/base/brand-kit) (MIT License)
 - The open-source Editorial Style Guide by [Danica Swanson](https://warpcast.com/danicaswanson) (for [Starbased](https://starbased.notion.site/Starbased-f8659abc78ad4f2095ed01bc88cca519))
+
+## License
+
+The editorial guidance in this document is provided under the same terms as the
+o1.exchange Brand Kit License (see LICENSE at the repository root). The
+remixed portions retain their original licenses: Base Brand Kit is MIT-licensed
+and the Starbased guide's license applies to its respective contributions.

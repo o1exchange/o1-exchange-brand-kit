@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/website-o1.exchange-blue)](https://o1.exchange)
 [![Docs](https://img.shields.io/badge/docs-o1.exchange-blue)](https://docs.o1.exchange)
 [![Discord](https://img.shields.io/badge/discord-join-7289da)](https://discord.gg/o1exchange)
-[![Twitter](https://img.shields.io/twitter/follow/o1_exchange?style=social)](https://x.com/o1_exchange)
+[![X](https://img.shields.io/badge/X-follow-1DA1F2?logo=x&logoColor=white)](https://x.com/o1_exchange)
 
 This repo contains **brand** and **editorial style** guides for o1.exchange.
 
